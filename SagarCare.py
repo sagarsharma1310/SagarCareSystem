@@ -887,7 +887,6 @@ class HospitalApp(ctk.CTk):
 
 
     def update_bill_total(self):
-        """Add extra charges."""
         extra = self.extra_charges.get().strip()
         if not extra:
             extra_val = 0
