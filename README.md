@@ -160,3 +160,18 @@ Clean implementation
 Clear future scope
 
 Strong personal effort
+<img width="1098" height="728" alt="Screenshot 2025-11-28 at 9 31 15 AM" src="https://github.com/user-attachments/assets/7008f0c5-d4c3-4f24-a542-f1b0ccd543a8" />
+
+
+<img width="1101" height="730" alt="Screenshot 2025-11-28 at 9 31 34 AM" src="https://github.com/user-attachments/assets/2ea63619-4d42-4535-a7c2-3e34f953fce6" />
+
+
+<img width="1104" height="726" alt="Screenshot 2025-11-28 at 9 31 48 AM" src="https://github.com/user-attachments/assets/13570e16-53de-4626-a0e4-3118ec034ef2" />
+
+<img width="1103" height="727" alt="Screenshot 2025-11-28 at 9 32 01 AM" src="https://github.com/user-attachments/assets/f71a8d7a-5e61-45ff-9032-c421f74e3b84" />
+
+
+<img width="1103" height="729" alt="Screenshot 2025-11-28 at 9 32 18 AM" src="https://github.com/user-attachments/assets/c7f1e908-0e0c-4b04-8a7b-53b867f6f265" />
+
+<img width="1102" height="725" alt="Screenshot 2025-11-28 at 9 32 31 AM" src="https://github.com/user-attachments/assets/1f0014af-d58e-4be5-b21d-f09ba42dfb4c" />
+<img width="1102" height="721" alt="Screenshot 2025-11-28 at 9 33 06 AM" src="https://github.com/user-attachments/assets/351b5f91-fc63-4187-bc89-d3de5108a70f" />
